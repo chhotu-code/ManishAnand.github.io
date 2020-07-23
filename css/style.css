@@ -1275,4 +1275,13 @@ footer .credits a {
 }
 .copyright a:hover{
   color: white;
+  background-color: red;
+   word-spacing: 3px;
+   letter-spacing: 1px;
+  
+}
+.copyright a{
+ text-shadow: 2px 2px blue;
+ color:white;
+
 }
